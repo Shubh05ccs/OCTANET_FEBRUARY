@@ -1,0 +1,105 @@
+nav {background:fit;
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(270deg, rgba(227,28,162,1) 0%, rgba(20,117,211,1) 100%);
+
+    padding: 28px;
+    /* border-radius: 15px; */
+    border:3px solid rgb(53, 53, 49);
+
+     font-size:18px;
+     font-weight:700;
+
+
+}
+*{
+    padding:0px;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+#img1{
+   text-align:left;
+   height:450px;
+   width:550px;
+   margin-left:0;
+   border-radius:15px;
+   /* border-bottom: 4px solid red; */
+   /* border-letf:4px solid red; */
+   /* border-top: 4px solid blue; */
+   /* border-right: 4px solid blue; */
+    position:relative;
+
+
+
+}
+.img-msg p{
+    text-align:left;
+    font-weight:700px;
+    font-size:18px;
+    color:white;
+
+
+}
+body{
+
+    margin:0px;
+    padding:0px;
+}
+section button{
+    padding:20px;
+    text-align:center;
+    font-weight:700;
+    font-size:32px;
+    border-radius:5px;
+    color:white;
+    background: linear-gradient(270deg, rgba(227,28,162,1) 0%, rgba(20,117,211,1) 100%);
+
+
+}
+.Hero-img{
+    /* margin-left:900px; */
+     column-width:600px;
+    text-align:right;
+}
+
+section.hero {
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(270deg, rgba(227,28,162,1) 0%, rgba(20,117,211,1) 100%);
+   display:block;
+}
+
+section.features {
+    padding: 50px;
+    text-align: center;
+}
+
+section.about {
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+section.testimonials {
+    padding: 50px;
+    text-align: center;
+}
+
+section.pricing {
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+footer {
+   background:linear-gradient(270deg, rgba(227,28,162,1) 0%, rgba(20,117,211,1) 100%);
+    color: #fff;
+   padding-bottom:6px;
+   padding-top:26px;
+    text-align: center;
+    font-weight:900;
+    font-size:22px;
+    background:fit;
+}
+.buy{
+    text-decoration:none;
+}
